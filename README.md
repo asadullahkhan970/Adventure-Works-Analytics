@@ -18,6 +18,11 @@ The project implements **Medallion Architecture** and **Star Schema design** for
 
 ---
 
+## Pipeline
+
+<img width="1472" height="704" alt="Gemini_Generated_Image_4czv2w4czv2w4czv" src="https://github.com/user-attachments/assets/3476e337-1338-4af9-887a-9d2e29652b78" />
+
+
 ## 🎯 Objectives
 - Implement ETL pipelines from raw data to analytics-ready tables.  
 - Process Adventure Works data through **Bronze → Silver → Gold** layers.  
